@@ -1,0 +1,19 @@
+{
+  "name": "jslearn",
+  "version": "0.1.0",
+  "description": "simple project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonypz/jsProjectLog.git"
+  },
+  "author": "Anton Podkolzin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonypz/jsProjectLog/issues"
+  },
+  "homepage": "https://github.com/Tonypz/jsProjectLog#readme"
+}
